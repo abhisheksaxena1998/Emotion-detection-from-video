@@ -1,5 +1,4 @@
-# Emotion-detection-from-video
-Emotion detection from video
+## Emotion detection using Image Processing.
 
 ## Media contents processing, analysis, extraction, synthesis and representation.
 
